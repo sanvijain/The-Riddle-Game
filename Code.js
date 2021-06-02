@@ -26,7 +26,7 @@ function clues() {
 
     fill("white")
     textSize(15)
-    text("M B C O", 670,390);
+    text("M B C O", 670,250);
     fill("lightblue")
     text("Hint: What has many teeth, but can’t bite?", 670,290)
 }
